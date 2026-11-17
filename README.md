@@ -35,5 +35,5 @@ Aqui estão alguns dos sistemas web full-stack que desenvolvi, arquitetei e mant
 ---
 
 ### 📫 Vamos nos conectar?
-* **LinkedIn:** [Insira seu link do LinkedIn aqui]
-* **E-mail profissional:** [Seu e-mail de contato]
+* **LinkedIn:** [https://www.linkedin.com/in/rcarvals/]
+* **E-mail profissional:** [rcarvals@gmail.com]
